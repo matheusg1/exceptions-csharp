@@ -1,0 +1,16 @@
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions\ExercicioExceptions\bin\Debug\net5.0\ExercicioExceptions.exe
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions\ExercicioExceptions\bin\Debug\net5.0\ExercicioExceptions.deps.json
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions\ExercicioExceptions\bin\Debug\net5.0\ExercicioExceptions.runtimeconfig.json
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions\ExercicioExceptions\bin\Debug\net5.0\ExercicioExceptions.runtimeconfig.dev.json
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions\ExercicioExceptions\bin\Debug\net5.0\ExercicioExceptions.dll
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions\ExercicioExceptions\bin\Debug\net5.0\ExercicioExceptions.pdb
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions\ExercicioExceptions\obj\Debug\net5.0\ExercicioExceptions.csproj.AssemblyReference.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions\ExercicioExceptions\obj\Debug\net5.0\ExercicioExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions\ExercicioExceptions\obj\Debug\net5.0\ExercicioExceptions.AssemblyInfoInputs.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions\ExercicioExceptions\obj\Debug\net5.0\ExercicioExceptions.AssemblyInfo.cs
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions\ExercicioExceptions\obj\Debug\net5.0\ExercicioExceptions.csproj.CoreCompileInputs.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions\ExercicioExceptions\obj\Debug\net5.0\ExercicioExceptions.dll
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions\ExercicioExceptions\obj\Debug\net5.0\refint\ExercicioExceptions.dll
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions\ExercicioExceptions\obj\Debug\net5.0\ExercicioExceptions.pdb
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions\ExercicioExceptions\obj\Debug\net5.0\ExercicioExceptions.genruntimeconfig.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\ExercicioExceptions\ExercicioExceptions\obj\Debug\net5.0\ref\ExercicioExceptions.dll
